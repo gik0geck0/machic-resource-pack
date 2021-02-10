@@ -1,0 +1,68 @@
+format: raw,
+alpha:
+  texture: alpha
+  color: red
+  min-value: 0
+  max-value: 255
+  range-min: 0
+  range-max: 255
+  shift: 0
+  power: 1
+diffuse-red: {}
+diffuse-green: {}
+diffuse-blue: {}
+albedo-red:
+  texture: albedo
+  color: red
+  min-value: 0
+  max-value: 255
+  range-min: 0
+  range-max: 255
+  shift: 0
+  power: 1
+albedo-green:
+  texture: albedo
+  color: green
+  min-value: 0
+  max-value: 255
+  range-min: 0
+  range-max: 255
+  shift: 0
+  power: 1
+albedo-blue:
+  texture: albedo
+  color: blue
+  min-value: 0
+  max-value: 255
+  range-min: 0
+  range-max: 255
+  shift: 0
+  power: 1
+height:
+  texture: height
+  color: red
+  invert: true
+occlusion:
+  texture: occlusion
+  color: red
+  invert: true
+normal-x:
+  texture: normal
+  color: red
+normal-y:
+  texture: normal
+  color: green
+  invert: true
+normal-z:
+  texture: normal
+  color: blue
+specular: {}
+smooth: {}
+rough:
+  texture: rough
+  color: red
+metal: {}
+f0: {}
+porosity: {}
+sss: {}
+emissive: {}
