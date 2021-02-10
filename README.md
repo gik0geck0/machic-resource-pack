@@ -12,7 +12,7 @@ This pack was developed for Valhelsia 3 on v1.16.4. It was shaded with either BS
 
 1. Download and Install: https://github.com/null511/PixelGraph
 2. git clone this repo
-3. Open `src` folder from PixelGraph
+3. Open `src` folder in this repo using PixelGraph
 4. Choose the profile/size in the top right (e.g. lab13-1024x)
 5. Publish drop-down > Create ZIP Archive
 6. Publish!
